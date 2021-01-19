@@ -4,3 +4,5 @@
     dependencies will be found on this address
 
 3.  https://www.youtube.com/watch?v=ZE2Jkvnk2Bs
+
+4.  Not adding dependencies in the gradle can seriously fuck up your project

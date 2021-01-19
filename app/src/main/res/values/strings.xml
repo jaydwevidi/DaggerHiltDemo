@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DaggerHiltDemo</string>
+    <string name="temp_String">this is a demo string from strings.xml</string>
 </resources>
